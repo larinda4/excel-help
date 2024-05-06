@@ -1,26 +1,26 @@
 {
   "Header": {
     "title": "Excel Help",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "paragraph": "Empowering your business through innovative solutions"
   },
   "About": {
-    "paragraph": "Nestled in the heart of Canada, our Winnipeg-based Excel business is dedicated to empowering local enterprises with the unparalleled capabilities of Microsoft Excel. With a commitment to precision, efficiency, and innovation, we offer comprehensive services ranging from expert training and custom spreadsheet development to seamless automation solutions. Elevate your business experience with our tailored Excel services, strategically designed to meet the unique needs of Winnipeg's dynamic business landscape. Let us be your partner in unlocking the full potential of Excel for unparalleled growth and success.",
+    "paragraph": "Nestled in the heart of Canada, our Winnipeg-based Excel business is dedicated to empowering local enterprises with the unparalleled capabilities of Microsoft Excel. With a commitment to precision, efficiency, and innovation, we offer comprehensive services ranging from  training and  spreadsheet development to seamless automation solutions. Elevate your business experience with our tailored Excel services, strategically designed to meet the unique needs of Winnipeg's dynamic business landscape. Let us be your partner in unlocking the full potential of Excel for growth and success.",
     "Why": [
       "No Outsourcing",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Competitive Pricing",
+      "Advanced Data Analytics",
+      "Custom Solutions"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
+      "Secure Data Handling",
       "Lorem ipsum dolor",
       "Exercitation ullamco",
       "Lorem ipsum dolor"
     ]
   },
-  "Gallery": [
+  "Projects": [
     {
-      "title": "Project Title",
+      "title": "Automation: Email Daily Reports",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
@@ -122,7 +122,7 @@
     }
   ],
   "Contact": {
-    "address": "Winipeg, Canada ",
+    "address": "Winnipeg, Canada ",
     "phone": "(204) 990-2767",
     "email": "support@excelhelp.ca",
     "facebook": "fb.com",
