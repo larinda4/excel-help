@@ -69,17 +69,12 @@
     {
       "icon": "fa fa-wordpress",
       "name": "Spreadsheet Support",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Crafting secure spreadsheets is our expertise. Given their significance in critical decision-making, it's imperative that data integrity remains uncompromised by faulty data or flawed formulas."
     },
     {
       "icon": "fa fa-cart-arrow-down",
       "name": "Automation",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Training",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "By implementing automation, John reduced the time spent on generating weekly reports from several hours to just a few minutes. This efficiency gain not only alleviated his workload but also allowed him to focus on more strategic tasks."
     }
   ],
   "Testimonials": [
