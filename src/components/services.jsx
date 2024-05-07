@@ -6,7 +6,7 @@ export const Services = (props) => {
       <div className="container">
         <div className="section-title">
           <h2>What support can we offer?</h2>
-          <p> We're not simply focused on enhancing your current setup. Our approach involves examining the root issues to optimize your entire workflow. You'll be amazed by the full extent of Excel's capabilities.
+          <p> We're not simply focused on enhancing your current setup. Our approach involves examining the root issues to optimize your entire workflow. <b>You'll be amazed by the full extent of Excel's capabilities.</b>
           </p>
         </div>
         <div className="row">
