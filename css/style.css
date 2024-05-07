@@ -184,7 +184,7 @@ hr {
 .btn-custom.active {
   color: #fff;
   background-image: none;
-  background-color: #3d5209;
+  background-color: #ffffff;
 }
 .btn:active,
 .btn.active {
@@ -310,7 +310,7 @@ header .intro-text {
 /* Services Section */
 #services {
   padding: 100px 0;
-  background: linear-gradient(to right, #3d5209 0%, #3d5209 100%);
+  background: linear-gradient(to right, #283605 0%, #283605 100%);
   color: #fff;
 }
 #services .service-desc {
