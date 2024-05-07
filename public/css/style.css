@@ -184,7 +184,7 @@ hr {
 .btn-custom.active {
   color: #fff;
   background-image: none;
-  background-color: #6372ff;
+  background-color: #3d5209;
 }
 .btn:active,
 .btn.active {
@@ -310,7 +310,7 @@ header .intro-text {
 /* Services Section */
 #services {
   padding: 100px 0;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: linear-gradient(to right, #3d5209 0%, #3d5209 100%);
   color: #fff;
 }
 #services .service-desc {
@@ -334,7 +334,7 @@ header .intro-text {
   width: 120px;
   height: 120px;
   padding: 40px 0;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: linear-gradient(to right, #000000 0%, #000000 100%);
   border-radius: 50%;
   color: #fff;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
@@ -460,7 +460,7 @@ header .intro-text {
 /* Contact Section */
 #contact {
   padding: 100px 0 60px;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: linear-gradient(to right, #000000 0%, #000000 100%);
   color: rgba(255, 255, 255, 0.75);
 }
 #contact .section-title {
@@ -580,7 +580,7 @@ label {
   transition: all 0.3s;
 }
 #contact .social i.fa:hover {
-  color: #608dfd;
+  color: #000000;
   background: #fff;
 }
 /* Footer Section*/
@@ -593,7 +593,7 @@ label {
   font-size: 14px;
 }
 #footer a {
-  color: #608dfd;
+  color: #000000;
 }
 #footer a:hover {
   border-bottom: 2px solid #608dfd;
