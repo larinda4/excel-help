@@ -20,15 +20,15 @@
   {
     "paragraph": "Nestled in the heart of Canada, our Winnipeg-based Excel business is dedicated to empowering local enterprises with the unparalleled capabilities of Microsoft Excel. With a commitment to precision, efficiency, and innovation, we offer comprehensive services ranging from  training and  spreadsheet development to seamless automation solutions. Elevate your business experience with our tailored Excel services, strategically designed to meet the unique needs of Winnipeg's dynamic business landscape. Let us be your partner in unlocking the full potential of Excel for growth and success."
   },
-  
+
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-excel-o",
       "name": "Spreadsheet Support",
       "text": "Crafting secure spreadsheets is our expertise. Given their significance in critical decision-making, it's imperative that data integrity remains uncompromised by faulty data or flawed formulas."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-gear",
       "name": "Automation",
       "text": "By implementing automation, John reduced the time spent on generating weekly reports from several hours to just a few minutes. This efficiency gain not only alleviated his workload but also allowed him to focus on more strategic tasks."
     },
@@ -81,18 +81,16 @@
     "address": "Winnipeg, Canada ",
     "phone": "(204) 990-2767",
     "email": "support@excelhelp.ca",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "linkedin": "http://linkedin.com"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
+      "icon": "fa fa-line-chart",
       "title": "Employee Satisfaction",
       "text": "Elevating employee satisfaction directly correlates to heightened productivity levels, leading to amplified business success and growth."
     },
     {
-      "icon": "fa fa-bullhorn",
+      "icon": "fa fa-check",
       "title": "Bug-Free Guarantee",
       "text": "Adhereing to strict quality assurance standards to deliver bug-free Excel solutions that meet the highest industry benchmarks."
     },
