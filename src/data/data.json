@@ -75,6 +75,11 @@
       "icon": "fa fa-cart-arrow-down",
       "name": "Automation",
       "text": "By implementing automation, John reduced the time spent on generating weekly reports from several hours to just a few minutes. This efficiency gain not only alleviated his workload but also allowed him to focus on more strategic tasks."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "",
+      "text": ""
     }
   ],
   "Testimonials": [
@@ -128,7 +133,7 @@
     {
       "icon": "fa fa-comments-o",
       "title": "Employee Satisfaction",
-      "text": "Elevating employee satisfaction directly correlates to heightened productivity levels, leading to amplified bsiness success and growth."
+      "text": "Elevating employee satisfaction directly correlates to heightened productivity levels, leading to amplified business success and growth."
     },
     {
       "icon": "fa fa-bullhorn",
