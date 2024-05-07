@@ -7,20 +7,18 @@
     "paragraph": "Nestled in the heart of Canada, our Winnipeg-based Excel business is dedicated to empowering local enterprises with the unparalleled capabilities of Microsoft Excel. With a commitment to precision, efficiency, and innovation, we offer comprehensive services ranging from  training and  spreadsheet development to seamless automation solutions. Elevate your business experience with our tailored Excel services, strategically designed to meet the unique needs of Winnipeg's dynamic business landscape. Let us be your partner in unlocking the full potential of Excel for growth and success.",
     "Why": [
       "No Outsourcing",
-      "Competitive Pricing",
-      "Advanced Data Analytics",
-      "Custom Solutions"
+      "Flexible Pricing",
+      "Advanced Data Analytics"
     ],
     "Why2": [
       "Secure Data Handling",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "",
+      "Custom Solutions"
     ]
   },
   "Projects": [
     {
-      "title": "Automation: Email Daily Reports",
+      "title": "Project Title",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
