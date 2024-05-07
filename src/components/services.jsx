@@ -5,9 +5,8 @@ export const Services = (props) => {
     <div id="services" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Our Services</h2>
-          <p>
-          What support can we offer to enhance your Excel spreadsheets?
+          <h2>What support can we offer to enhance your Excel spreadsheets?</h2>
+          <p> We're not simply focused on enhancing your current setup. Our approach involves examining the root issues to optimize your entire workflow. You'll be amazed by the full extent of Excel's capabilities.
           </p>
         </div>
         <div className="row">
@@ -25,7 +24,11 @@ export const Services = (props) => {
             : "loading"}
 
         </div>
-        <p>We're not simply focused on enhancing your current setup. Our approach involves examining the root issues to optimize your entire workflow. You'll be amazed by the full extent of Excel's capabilities.</p>
+        <a
+                  href="#contact"
+                  className="btn btn-custom btn-lg page-scroll">
+                  Learn More
+                </a>
       </div>
     </div>
   );
