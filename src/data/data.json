@@ -18,12 +18,16 @@
   },
   "Gallery": 
   {
-    "paragraph": "Nestled in the heart of Canada, our Winnipeg-based Excel business is dedicated to empowering local enterprises with the unparalleled capabilities of Microsoft Excel. With a commitment to precision, efficiency, and innovation, we offer comprehensive services ranging from  training and  spreadsheet development to seamless automation solutions. Elevate your business experience with our tailored Excel services, strategically designed to meet the unique needs of Winnipeg's dynamic business landscape. Let us be your partner in unlocking the full potential of Excel for growth and success."
+     "Why": [
+      "Simplify sending your weekly report emails with our Excel automation service. Our VBA script seamlessly generates and sends emails directly from Excel, saving you time and effort. Let us streamline your workflow so you can focus on what matters most – your business.",
+      "Flexible Pricing",
+      "Advanced Data Analytics"
+    ]
   },
 
   "Services": [
     {
-      "icon": "fa fa-excel-o",
+      "icon": "fa fa-file-excel-o",
       "name": "Spreadsheet Support",
       "text": "Crafting secure spreadsheets is our expertise. Given their significance in critical decision-making, it's imperative that data integrity remains uncompromised by faulty data or flawed formulas."
     },
@@ -33,7 +37,7 @@
       "text": "By implementing automation, John reduced the time spent on generating weekly reports from several hours to just a few minutes. This efficiency gain not only alleviated his workload but also allowed him to focus on more strategic tasks."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-desktop",
       "name": "",
       "text": ""
     }
