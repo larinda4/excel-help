@@ -16,7 +16,7 @@ export const Gallery = (props) => {
           </div>
         <div className="col-xs-12 col-md-6">
           {" "}
-          <img src="img/about.jpg" className="img-responsive" alt="" />{" "}
+          <img src="img/portfolio/01-large.jpg" className="img-responsive" alt="" />{" "}
         </div>
 
         </div>
