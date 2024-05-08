@@ -14,7 +14,7 @@ export const Testimonials = (props) => {
                   <div className="testimonial">
                     <div className="testimonial-content">
                       <p>"{d.text}"</p>
-                      <div className="testimonial-meta"> - {d.name} </div>
+                      <div className="testimonial-meta"> {d.name} </div>
                     </div>
                   </div>
                 </div>
