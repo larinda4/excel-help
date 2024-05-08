@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/excel-help/static/css/main.ae42ac5f.css",
-    "main.js": "/excel-help/static/js/main.bc602bf4.js",
+    "main.js": "/excel-help/static/js/main.de134684.js",
     "index.html": "/excel-help/index.html",
     "main.ae42ac5f.css.map": "/excel-help/static/css/main.ae42ac5f.css.map",
-    "main.bc602bf4.js.map": "/excel-help/static/js/main.bc602bf4.js.map"
+    "main.de134684.js.map": "/excel-help/static/js/main.de134684.js.map"
   },
   "entrypoints": [
     "static/css/main.ae42ac5f.css",
-    "static/js/main.bc602bf4.js"
+    "static/js/main.de134684.js"
   ]
 }
