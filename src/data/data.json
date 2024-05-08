@@ -12,17 +12,12 @@
     ],
     "Why2": [
       "Secure Data Handling",
-      "",
       "Custom Solutions"
     ]
   },
   "Gallery": 
   {
-     "Why": [
-      "Simplify sending your weekly report emails with our Excel automation service. Our VBA script seamlessly generates and sends emails directly from Excel, saving you time and effort. Let us streamline your workflow so you can focus on what matters most – your business.",
-      "Flexible Pricing",
-      "Advanced Data Analytics"
-    ]
+     "paragraph": "Simplify sending your weekly report emails with our Excel automation service. Our VBA script seamlessly generates and sends emails directly from Excel, saving you time and effort. Let us streamline your workflow so you can focus on what matters most – your business."
   },
 
   "Services": [

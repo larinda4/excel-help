@@ -10,13 +10,7 @@ export const Gallery = (props) => {
           <div className="about-text">
             <h2>Projects</h2>
             <div className="col-lg-6 col-sm-6 col-xs-12">
-                  <ul>
-                    {props.data
-                      ? props.data.Why.map((d, i) => (
-                          <li key={`${d}-${i}`}>{d}</li>
-                        ))
-                      : "loading"}
-                  </ul>
+            <p>{props.data ? props.data.paragraph : "loading..."}</p>
                 </div>
             </div>
           </div>
