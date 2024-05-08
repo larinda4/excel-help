@@ -17,7 +17,7 @@
   },
   "Gallery": 
   {
-     "paragraph": "Simplify sending your weekly report emails with our Excel automation service. Our VBA script seamlessly generates and sends emails directly from Excel, saving you time and effort. Let us streamline your workflow so you can focus on what matters most – your business."
+     "paragraph": ""
   },
 
   "Services": [
@@ -40,8 +40,8 @@
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "Simplify sending your weekly report emails with our Excel automation service. Our VBA script seamlessly generates and sends emails directly from Excel, saving you time and effort. Let us streamline your workflow so you can focus on what matters most – your business.",
+      "name": ""
     },
     {
       "img": "img/testimonials/02.jpg",
