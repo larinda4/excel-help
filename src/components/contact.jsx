@@ -22,7 +22,7 @@ export const Contact = (props) => {
     console.log(name, email, message);
     
     emailjs
-      .sendForm("service_pzcx9wc", "template_3fmiich", e.target, "WXZdq6xsEG28KjNM0")
+      .sendForm("service_pzcx9wc", "template_1ugh6co", e.target, "WXZdq6xsEG28KjNM0")
       .then(
         (result) => {
           console.log(result.text);
@@ -110,7 +110,7 @@ export const Contact = (props) => {
               <p>
                 <span>
                   <i className="fa fa-phone"></i> Phone
-                </span>{" "}
+                </span><a href="mailto:support@excelhelp.ca"></a>{" "}
                 {props.data ? props.data.phone : "loading"}
               </p>
             </div>
