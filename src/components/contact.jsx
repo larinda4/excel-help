@@ -23,15 +23,13 @@ export const Contact = (props) => {
     
     emailjs
       .sendForm("service_pzcx9wc", "template_1ugh6co", e.target, "WXZdq6xsEG28KjNM0")
-      setButtonText("Sending...")
+      setButtonText("Sent!")
       .then(
         (result) => {
-          setButtonText("Sent!")
           console.log(result.text);
           clearState();
         },
         (error) => {
-          setButtonText("Error")
           console.log(error.text);
         }
       );
