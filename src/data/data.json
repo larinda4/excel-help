@@ -45,13 +45,13 @@
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "We implemented a robust cross-check mechanism within a financial statement, ensuring accuracy in fee and expense reporting. We systematically verified data integrity across multiple worksheets, proactively identifying discrepancies and enhancing the reliability of financial analysis. This solution not only bolstered confidence in the accuracy of the financial statement but also streamlined the auditing process.",
+      "name": ""
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "Surprisingly, the client encountered Excel file freezes during cursor movement, which seemed uncommon for Excel. To investigate, we developed concise macros to track freeze occurrences and anticipate them proactively. Through analysis of system logs within Excel, we pinpointed a network issue affecting an entire office space, resolving a longstanding problem for multiple employees.",
+      "name": ""
     }
   ],
   "Team": [
@@ -80,7 +80,7 @@
     "address": "Winnipeg, Canada ",
     "phone": "(204) 990-2767",
     "email": "support@excelhelp.ca",
-    "linkedin": "http://linkedin.com/in/larinda-crowder"
+    "linkedin": "http://linkedin.com/in/larinda-crowder-92207198"
   },
   "Features": [
     {
