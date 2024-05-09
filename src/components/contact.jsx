@@ -15,7 +15,7 @@ export const Contact = (props) => {
     setState((prevState) => ({ ...prevState, [name]: value }));
   };
   const clearState = () => setState({ ...initialState });
-  
+  const [buttonText, setButtonText] = useState("Send Message");
   
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -23,12 +23,15 @@ export const Contact = (props) => {
     
     emailjs
       .sendForm("service_pzcx9wc", "template_1ugh6co", e.target, "WXZdq6xsEG28KjNM0")
+      setButtonText("Sending...")
       .then(
         (result) => {
+          setButtonText("Sent!")
           console.log(result.text);
           clearState();
         },
         (error) => {
+          setButtonText("Error")
           console.log(error.text);
         }
       );
@@ -91,7 +94,7 @@ export const Contact = (props) => {
                 </div>
                 <div id="success"></div>
                 <button type="submit" className="btn btn-custom btn-lg">
-                  Send Message
+                  [buttonText]
                 </button>
               </form>
             </div>
@@ -110,7 +113,7 @@ export const Contact = (props) => {
               <p>
                 <span>
                   <i className="fa fa-phone"></i> Phone
-                </span><a href="mailto:support@excelhelp.ca"></a>{" "}
+                </span>{" "}
                 {props.data ? props.data.phone : "loading"}
               </p>
             </div>
